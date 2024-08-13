@@ -20,3 +20,4 @@ bun dev
 
 Open [http://localhost:3000/stats](http://localhost:3000/stats) with your browser to see the result.
 
+Hosted on: [https://pi-stats.brichard42.com/stats](https://pi-stats.brichard42.com/stats)
