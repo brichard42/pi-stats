@@ -1,7 +1,7 @@
 # PI-STATS
 
-My very first [Next.js](https://nextjs.org/).
-It's a very simple website to monitor a rasberry-pi server.
+My very first [Next.js](https://nextjs.org/). Just wanted to try it out (and read some documentation for fun 🤓)
+It's a very simple website to monitor a headless rasberry-pi server. You have to reload the page to get updated infos.
 
 ## Getting Started
 
